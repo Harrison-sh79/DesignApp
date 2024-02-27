@@ -1,0 +1,15 @@
+export const provinceList = [
+  { label: "AB", value: "Alberta" },
+  { label: "BC", value: "British Columbia" },
+  { label: "MB", value: "Manitoba" },
+  { label: "NB", value: "New Brunswick" },
+  { label: "NL", value: "Newfoundland and Labrador" },
+  { label: "NS", value: "Nova Scotia" },
+  { label: "ON", value: "Ontario" },
+  { label: "PE", value: "Prince Edward Island" },
+  { label: "QC", value: "Quebec" },
+  { label: "SK", value: "Saskatchewan" },
+  { label: "NT", value: "Northwest Territories" },
+  { label: "NU", value: "Nunavut" },
+  { label: "YT", value: "Yukon" },
+];

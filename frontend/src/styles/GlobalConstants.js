@@ -1,0 +1,11 @@
+export const CARD_APPLY_STATUS = {
+  NO_APPLICATION: 0,
+  PENDING: 1,
+  PASSED_INACTIVE: 2,
+  REFUSED: 3,
+};
+
+export const USER_STATUS = {
+  NOT_VERIFIED: 0,
+  VERIFIED: 1,
+};
